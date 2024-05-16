@@ -9,7 +9,7 @@ Iniciamos um trabalho onde o objetivo é criar um css para o código pre estabel
 ## Índice 
 * [Descrição](#descrição)
 * [Recursos](#Recursos)
-* [Tecnologias utilizadas](#tecnologias_utilizadas)
+* [Tecnologias utilizadas](#Tecnologias_utilizadas)
 * [Autores](#Autores)
 
 ## Descrição
